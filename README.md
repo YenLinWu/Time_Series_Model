@@ -1,7 +1,8 @@
 # Time Series Model
 
-[Introductions to Stationarity, Differencing and Autocorrelation](https://colab.research.google.com/github/YenLinWu/Time_Series_Model/blob/main/Materials/Stationarity_Differencing_and_Autocorrelation.ipynb)  
-[Introduction to Time Series Models](https://colab.research.google.com/github/YenLinWu/Time_Series_Model/blob/main/Materials/Introduction_to_Time_Series_Models.ipynb)
+* [Introductions to Stationarity, Differencing and Autocorrelation](https://colab.research.google.com/github/YenLinWu/Time_Series_Model/blob/main/Materials/Stationarity_Differencing_and_Autocorrelation.ipynb)  
+* [Introduction to Time Series Models](https://colab.research.google.com/github/YenLinWu/Time_Series_Model/blob/main/Materials/Introduction_to_Time_Series_Models.ipynb)   
+* [Order Selection of ARIMA Model](https://colab.research.google.com/github/YenLinWu/Time_Series_Model/blob/main/Materials/Order_Selection_of_ARIMA_Model.ipynb)
 
 ### References   
 [1] [Forecasting: Principles and Practice (2nd ed online version)](https://otexts.com/fpp2/), Rob J Hyndman and George Athanasopoulos   

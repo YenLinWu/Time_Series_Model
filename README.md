@@ -1,5 +1,6 @@
 # Time Series Model
 
+[Introductions to Stationarity, Differencing and Autocorrelation](https://colab.research.google.com/github/YenLinWu/Time_Series_Model/blob/main/Materials/Stationarity_Differencing_and_Autocorrelation.ipynb)  
 [Introduction to Time Series Models](https://colab.research.google.com/github/YenLinWu/Time_Series_Model/blob/main/Materials/Introduction_to_Time_Series_Models.ipynb)
 
 ### References   

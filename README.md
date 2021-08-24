@@ -9,7 +9,7 @@
   (3) If the data are non-stationary, take first differences of the data until the data are stationary.  
   (4) Examine the ACF/PACF: Is an ARIMA( p, d, 0 ) or ARIMA( 0, d, q ) model appropriate?  
   (5) Try your chosen model(s), and use the AICc to search for a better model.  
-  (6) Check the residuals from your chosen model by plotting the ACF of the residuals, and doing a portmanteau test of the residuals. 
+  (6) Check the residuals from your chosen model by plotting the ACF of the residuals, and doing a portmanteau test of the residuals.   
   &emsp;&nbsp;  If they do not look like white noise, try a modified model.   
   (7) Once the residuals look like white noise, calculate forecasts.   
   Example: [Seasonally adjusted electrical equipment orders](https://otexts.com/fpp2/arima-r.html#example-seasonally-adjusted-electrical-equipment-orders)

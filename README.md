@@ -18,8 +18,9 @@
 [2] [statsmodels v0.13.0.dev0](https://www.statsmodels.org/dev/index.html)  
 [3] [statsmodels.tsa.statespace.sarimax.SARIMAX](https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html)
 
-## Further Readings
-[1] [End-to-End Time Series Analysis and Forecasting: a Trio of SARIMAX, LSTM and Prophet (Part 1)](https://towardsdatascience.com/end-to-end-time-series-analysis-and-forecasting-a-trio-of-sarimax-lstm-and-prophet-part-1-306367e57db8), Bruce Nguyen, Feb 7, 2021.    
-[2] [Complete Guide To SARIMAX in Python for Time Series Modeling](https://analyticsindiamag.com/complete-guide-to-sarimax-in-python-for-time-series-modeling/), Yugesh Verma, Jul 30, 2021.
+## Further Readings  
+[1] [Summary of rules for identifying ARIMA models](https://people.duke.edu/~rnau/arimrule.htm), Robert Nau.  
+[2] [End-to-End Time Series Analysis and Forecasting: a Trio of SARIMAX, LSTM and Prophet (Part 1)](https://towardsdatascience.com/end-to-end-time-series-analysis-and-forecasting-a-trio-of-sarimax-lstm-and-prophet-part-1-306367e57db8), Bruce Nguyen, Feb 7, 2021.    
+[3] [Complete Guide To SARIMAX in Python for Time Series Modeling](https://analyticsindiamag.com/complete-guide-to-sarimax-in-python-for-time-series-modeling/), Yugesh Verma, Jul 30, 2021.
 
 

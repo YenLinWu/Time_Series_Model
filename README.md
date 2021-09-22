@@ -19,9 +19,11 @@
 [3] [statsmodels.tsa.statespace.sarimax.SARIMAX](https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html)
 
 ## Further Readings  
-[1] [Summary of rules for identifying ARIMA models](https://people.duke.edu/~rnau/arimrule.htm), Robert Nau.  
-[2] [End-to-End Time Series Analysis and Forecasting: a Trio of SARIMAX, LSTM and Prophet (Part 1)](https://towardsdatascience.com/end-to-end-time-series-analysis-and-forecasting-a-trio-of-sarimax-lstm-and-prophet-part-1-306367e57db8), Bruce Nguyen, Feb 7, 2021.    
-[3] [Complete Guide To SARIMAX in Python for Time Series Modeling](https://analyticsindiamag.com/complete-guide-to-sarimax-in-python-for-time-series-modeling/), Yugesh Verma, Jul 30, 2021.    
-[4] [ARIMA Model – Complete Guide to Time Series Forecasting in Python](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/), Selva Prabhakaran, Aug 22, 2021.  
+[1] [Summary of rules for identifying ARIMA models](https://people.duke.edu/~rnau/arimrule.htm), Robert Nau.   
+[2] [ARIMA Model – Complete Guide to Time Series Forecasting in Python](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/), Selva Prabhakaran, Aug 22, 2021.   
+[3] [A Gentle Introduction to SARIMA for Time Series Forecasting in Python](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/), Jason Brownlee,  Aug 18, 2018.   
+[4] [Complete Guide To SARIMAX in Python for Time Series Modeling](https://analyticsindiamag.com/complete-guide-to-sarimax-in-python-for-time-series-modeling/), Yugesh Verma, Jul 30, 2021.    
+[5] [End-to-End Time Series Analysis and Forecasting: a Trio of SARIMAX, LSTM and Prophet (Part 1)](https://towardsdatascience.com/end-to-end-time-series-analysis-and-forecasting-a-trio-of-sarimax-lstm-and-prophet-part-1-306367e57db8), Bruce Nguyen, Feb 7, 2021.    
+  
 
 

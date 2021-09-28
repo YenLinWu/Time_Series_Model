@@ -55,7 +55,7 @@ yhat = model_fit.predict( start, end )
 </details>
  
 ## References   
-[1] [Forecasting: Principles and Practice (2nd ed online version)](https://otexts.com/fpp2/), Rob J Hyndman and George Athanasopoulos   
+[1] [Forecasting: Principles and Practice (2nd ed online version)](https://otexts.com/fpp2/)( [簡體中文版](https://otexts.com/fppcn/) ), Rob J Hyndman and George Athanasopoulos     
 [2] [statsmodels v0.13.0.dev0](https://www.statsmodels.org/dev/index.html)  
 [3] [statsmodels.tsa.statespace.sarimax.SARIMAX](https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html)
 
